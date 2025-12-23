@@ -1,0 +1,26 @@
+{
+  "name": "course-selling-app-hkiratassignment",
+  "version": "1.0.0",
+  "description": "10x App 🚀 10x App is a full-stack e-learning platform where users can explore and purchase courses on Web Development, App Development, UI/UX Design, Video Editing, and other trending tech skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testing-archit/course-selling-app-hkiratAssignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/testing-archit/course-selling-app-hkiratAssignment/issues"
+  },
+  "homepage": "https://github.com/testing-archit/course-selling-app-hkiratAssignment#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.0.2"
+  }
+}
